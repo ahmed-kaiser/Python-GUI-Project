@@ -6,7 +6,7 @@ class Calculator:
         self.root = tk.Tk()
         self.root.geometry('336x435')
         self.root.resizable(0,0)
-        self.root.iconbitmap('cal.ico')
+        self.root.iconbitmap('Calculator_with_GUI/cal.ico')
         self.root.title('Calculator')
         
         self.expression = "" # holds the real expression 
