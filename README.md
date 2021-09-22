@@ -1,3 +1,3 @@
 # Python GUI Project
-Python GUI mini project 
-Used GUI package Tkinter 
+Python GUI mini project, 
+used GUI package is Tkinter 
